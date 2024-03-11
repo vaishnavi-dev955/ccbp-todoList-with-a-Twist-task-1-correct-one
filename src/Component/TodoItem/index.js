@@ -11,7 +11,7 @@ const TodoItem = (props) =>{
     return(
         <li className="list-style">
         <div className="Todo-Item-container">
-            <div className="p-container">
+            <div>
             <p className="Todo-paragraph">{taskName}<br/></p>
             </div>
             <div>
